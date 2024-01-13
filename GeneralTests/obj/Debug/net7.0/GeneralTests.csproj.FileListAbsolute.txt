@@ -1,0 +1,14 @@
+C:\Users\Yunele\c_TestFolders\C-Sharp-Test-Files\GeneralTests\bin\Debug\net7.0\GeneralTests.exe
+C:\Users\Yunele\c_TestFolders\C-Sharp-Test-Files\GeneralTests\bin\Debug\net7.0\GeneralTests.deps.json
+C:\Users\Yunele\c_TestFolders\C-Sharp-Test-Files\GeneralTests\bin\Debug\net7.0\GeneralTests.runtimeconfig.json
+C:\Users\Yunele\c_TestFolders\C-Sharp-Test-Files\GeneralTests\bin\Debug\net7.0\GeneralTests.dll
+C:\Users\Yunele\c_TestFolders\C-Sharp-Test-Files\GeneralTests\bin\Debug\net7.0\GeneralTests.pdb
+C:\Users\Yunele\c_TestFolders\C-Sharp-Test-Files\GeneralTests\obj\Debug\net7.0\GeneralTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yunele\c_TestFolders\C-Sharp-Test-Files\GeneralTests\obj\Debug\net7.0\GeneralTests.AssemblyInfoInputs.cache
+C:\Users\Yunele\c_TestFolders\C-Sharp-Test-Files\GeneralTests\obj\Debug\net7.0\GeneralTests.AssemblyInfo.cs
+C:\Users\Yunele\c_TestFolders\C-Sharp-Test-Files\GeneralTests\obj\Debug\net7.0\GeneralTests.csproj.CoreCompileInputs.cache
+C:\Users\Yunele\c_TestFolders\C-Sharp-Test-Files\GeneralTests\obj\Debug\net7.0\GeneralTests.dll
+C:\Users\Yunele\c_TestFolders\C-Sharp-Test-Files\GeneralTests\obj\Debug\net7.0\refint\GeneralTests.dll
+C:\Users\Yunele\c_TestFolders\C-Sharp-Test-Files\GeneralTests\obj\Debug\net7.0\GeneralTests.pdb
+C:\Users\Yunele\c_TestFolders\C-Sharp-Test-Files\GeneralTests\obj\Debug\net7.0\GeneralTests.genruntimeconfig.cache
+C:\Users\Yunele\c_TestFolders\C-Sharp-Test-Files\GeneralTests\obj\Debug\net7.0\ref\GeneralTests.dll
